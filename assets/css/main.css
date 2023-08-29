@@ -2730,4 +2730,5 @@ input, select, textarea {
 
 #sideways {
 	width: inherit;
+	width: -webkit-fill-available;
 }
