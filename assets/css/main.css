@@ -2727,3 +2727,7 @@ input, select, textarea {
 #about {
 	/* overflow-y: scroll !important; */
 }
+
+#sideways {
+	width: inherit;
+}
